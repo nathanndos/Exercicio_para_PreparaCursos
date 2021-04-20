@@ -1,0 +1,2 @@
+# Exercicio_para_Prepara_Cursos
+Este projeto é baseado em HTML e CSS, e tem como intuito auxiliar os alunos  de desenvolvimento de aplicativos da Prepara Cursos que necessitam consolidar os conhecimentos aprendidos em aula. O site apresentado é baseado na interface do gitHub, porém há alterações no projeto, afim de seguir o que foi devidamente estudado. Além disso, juntamente com o código há um doc.x com todo o passo a passo para a criação deste projeto
