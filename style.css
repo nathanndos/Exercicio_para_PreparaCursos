@@ -12,6 +12,7 @@ html,body{
 	display: flex
 
 }
+
 img{
 	margin-right: 20px;
 }
@@ -19,6 +20,7 @@ a{
 	padding: 10px 10px;
 	text-decoration: none;
 	color:#1C1C1C;
+	border-radius: 15px;
 }
 a:hover{
 	background: Black;
@@ -31,19 +33,52 @@ a:hover{
 	display: flex;
 }
 #PerfilFilho{
+	line-height: 2;
 	text-align: left;
 	display: block;
 	padding: 50px 0px 0px 90px;
 }
 
 #MenuInterno{
-	margin: 50px 0 0 20px;
+	margin: 50px 0 30px 20px;
 
 }
 .OpcaoInterna{
 	margin-right: 25px;
+	border-radius: 15px;
 }
 
+#InformacaoInterna{
+	width: 100%;
+
+}
 #TabelaInterna{
-	margin: 50px 0 0 25px;
+	width: 100%;
+	padding-right: 35px;
+	
+
+}
+
+#TabelaInterna td{
+	
+	padding-left: 10px;
+	text-align: left;
+	width: 150px;
+	height: 60px;
+	border: 1px solid;
+	border-radius: 15px;
+}
+
+#SobreMim{
+	width: 95%;
+	margin-top: 45px;
+	text-align: justify;
+
+}
+footer{
+	padding-top: 10px;
+	padding-bottom:10px;
+	background: #DCDCDC; 
+	text-align: center;
+	color:grey;
 }
